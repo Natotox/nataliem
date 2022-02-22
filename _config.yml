@@ -22,7 +22,7 @@ title: Natalie Mills
 email: nataliemmillsda@gmai;.com
 description: Create Caribbean RTC Internship Portfolio Page
 baseurl: "/nataliem" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://natotox.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 github_username:  Natotox
 
