@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Natalie Mills
-email: nataliemmillsda@gmai;.com
+email: nataliemmillsda@gmail.com
 description: Create Caribbean RTC Internship Portfolio Page
 baseurl: "/nataliem" # the subpath of your site, e.g. /blog
 url: "https://natotox.github.io" # the base hostname & protocol for your site, e.g. http://example.com
