@@ -40,6 +40,8 @@ categories: Weekly Reflections
 <!-- /wp:group --></div>
 <!-- /wp:group -->
 
+<p style="font-size:30px"><strong><span style="text-decoration: underline">Reflection</span></strong></p>
+
 <!-- wp:paragraph {"align":"justify"} -->
 <p class="has-text-align-justify">I was not aware of the principles of learning in the digital age before reading this article. However, I had a general understanding of most of the rights concerning digital learning. I now have a better understanding of the aims that digital learning was created to achieve.</p>
 <!-- /wp:paragraph -->
@@ -81,6 +83,8 @@ categories: Weekly Reflections
 <ul><li>Infrastructure is created by people and therefore embeds and reflects the values of the people who created it.</li><li>Infrastructure does not work equally well for each of us.<ul><li>What is felt as a disruption changes depending on the social and political position&nbsp; occupied by a given person.</li></ul></li><li>Robert Moses and his transformation of NYC through his expressways<ul><li>Such systems&nbsp; reveal the ways that power and privilege are normalized such that they extend and consolidate patriarchy, white supremacy, and wealth inequality.</li><li>More often, such infrastructures are left unexamined.</li><li>They facilitate normal life, and the inequities that are sustained by them are not seen at all.</li></ul></li><li>Noble argues instead that the web is instead a machine of oppression, a set of “digital decisions” that “reinforce oppressive social relationships and enact new modes of racial profiling.”</li><li>Nothing about internet search and retrieval is politically neutral.<ul><li>Image searches for “gorilla” turn up photos of African-American people.</li><li>Looking for “black teenagers” returns police mug shots.</li><li>Searching “professional hairstyles” returns images of white women wearing ponytails and French braids while “unprofessional hairstyles” features black women.</li><li>This parallels extended histories of racist white representations of blackness, and black femininity in particular.</li></ul></li><li>There is nothing benign about encoding white supremacy in Google’s search algorithm.</li><li>Noble offers two solutions.<ul><li>A call for Google and other Silicon Valley companies whose code invisibly structures so much of contemporary life to hire people who understand how race and gender and other categories of social difference function in the world to produce different life experiences for different people.</li><li>An appeal to the state in service to the public good.</li></ul></li></ul>
 <!-- /wp:list --></div>
 <!-- /wp:group -->
+
+<p style="font-size:30px"><strong><span style="text-decoration: underline">Reflection</span></strong></p>
 
 <!-- wp:paragraph -->
 <p>This article made me think more deeply about big search and retrieval companies like Google, the code used to make their search engines, and the programmers who write the code.</p>
@@ -127,6 +131,8 @@ categories: Weekly Reflections
 <ul><li>Bringing computational methods to bear on traditional humanities scholarship.</li><li>Taking tools built by warmongers, oil companies, spy agencies &amp; investment bankers and using them to study literature, philosophy, history, culture and the classics.</li><li>Comes from a basis of criticism and critical inquiry.<ul><li>An agonistic and dialectical engagement with a thing.<ul><li>Thesis, antithesis and synthesis.</li><li>Going back and fourth with examining a thing.</li></ul></li></ul></li><li>Critical inquiry + Computational methods +&nbsp; Fan culture + Digital Object<ul><li>Disrupt hacker culture</li><li>Data journalism</li><li>Wikipedia &amp; TVTropes</li><li>New Media<ul><li>Software studies</li><li>Neo-</li></ul></li></ul></li></ul>
 <!-- /wp:list --></div>
 <!-- /wp:group -->
+
+<p style="font-size:30px"><strong><span style="text-decoration: underline">Reflection</span></strong></p>
 
 <!-- wp:paragraph -->
 <p>Honestly, before watching this video, I could not put together a suitable, specific definition of 'Digital Humanities'. I now have a better understanding of this term and can start piecing together this puzzle called 'Digital Humanities' in my mind, slowly getting closer to seeing and understanding the whole picture.</p>
