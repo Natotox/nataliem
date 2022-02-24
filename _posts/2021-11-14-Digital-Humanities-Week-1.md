@@ -145,7 +145,3 @@ categories: Weekly Reflections
 <!-- wp:paragraph -->
 <p></p>
 <!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p><strong><em><sub>P.S.: I do not own the featured image</sub></em></strong></p>
-<!-- /wp:paragraph -->
