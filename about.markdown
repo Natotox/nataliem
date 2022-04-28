@@ -4,7 +4,7 @@ title: About Me
 permalink: /about/
 ---
 
-![This is me](https://i0.wp.com/createcaribbean.org/create/wp-content/uploads/2022/04/IMG_6004-scaled.jpg?resize=1153%2C1536&ssl=1)
+![This is my picture](https://i0.wp.com/createcaribbean.org/create/wp-content/uploads/2022/04/IMG_6004-scaled.jpg?resize=1153%2C1536&ssl=1)
 
 My name is Natalie Mills. I am the eldest of four siblings and I was born and raised in Dominica. I've attended and completed: TC Sunbeam (Preschool), Convent Prepatory School (Primary School), and Convent High School. I am currently attending Dominica State College where I major in Computer Science.
 
