@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: defaut
 title: "Visualizing Caribbean Literary Encounters: Report 1"
 date: 2021-11-29 02:45
 categories: Reports
