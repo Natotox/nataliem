@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About Me
-permalink: /about/
+permalink: /aboutme/
 ---
 
 ![This is my picture](https://i0.wp.com/createcaribbean.org/create/wp-content/uploads/2022/04/IMG_6004-scaled.jpg?resize=1153%2C1536&ssl=1)
