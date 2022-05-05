@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Digital Humanities: Week 2"
+title: "Authors of the Caribbean"
 date: 2022-05-05 13:15
 categories: Projects
 ---
